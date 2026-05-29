@@ -18,3 +18,12 @@ This is the official code repository for: "PB-Mamba: An Efficient Local–Global
 * Linux System
 * NVIDIA GPU
 * CUDA 12.0+
+##  Citation
+
+If you find this repository useful, please consider citing the following reference:
+
+```bibtex
+@article{
+  
+}
+```
